@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Iman\source\repos\BookRentalSystem\BookRentalSystem\main.cpp(35,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BookRentalSystem.vcxproj -> C:\Users\Iman\source\repos\BookRentalSystem\x64\Debug\BookRentalSystem.exe

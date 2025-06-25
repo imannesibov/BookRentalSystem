@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6924B8-E1F6-4350-A723-BB4C77C04282}|BookRentalSystem\\BookRentalSystem.vcxproj|C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A6924B8-E1F6-4350-A723-BB4C77C04282}|BookRentalSystem\\BookRentalSystem.vcxproj|solutionrelative:BookRentalSystem\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6924B8-E1F6-4350-A723-BB4C77C04282}|BookRentalSystem\\BookRentalSystem.vcxproj|C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A6924B8-E1F6-4350-A723-BB4C77C04282}|BookRentalSystem\\BookRentalSystem.vcxproj|solutionrelative:BookRentalSystem\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6924B8-E1F6-4350-A723-BB4C77C04282}|BookRentalSystem\\BookRentalSystem.vcxproj|C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A6924B8-E1F6-4350-A723-BB4C77C04282}|BookRentalSystem\\BookRentalSystem.vcxproj|solutionrelative:BookRentalSystem\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6924B8-E1F6-4350-A723-BB4C77C04282}|BookRentalSystem\\BookRentalSystem.vcxproj|C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A6924B8-E1F6-4350-A723-BB4C77C04282}|BookRentalSystem\\BookRentalSystem.vcxproj|solutionrelative:BookRentalSystem\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6924B8-E1F6-4350-A723-BB4C77C04282}|BookRentalSystem\\BookRentalSystem.vcxproj|C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A6924B8-E1F6-4350-A723-BB4C77C04282}|BookRentalSystem\\BookRentalSystem.vcxproj|solutionrelative:BookRentalSystem\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6924B8-E1F6-4350-A723-BB4C77C04282}|BookRentalSystem\\BookRentalSystem.vcxproj|C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\LibrarySystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A6924B8-E1F6-4350-A723-BB4C77C04282}|BookRentalSystem\\BookRentalSystem.vcxproj|solutionrelative:BookRentalSystem\\LibrarySystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6924B8-E1F6-4350-A723-BB4C77C04282}|BookRentalSystem\\BookRentalSystem.vcxproj|C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\LibrarySystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A6924B8-E1F6-4350-A723-BB4C77C04282}|BookRentalSystem\\BookRentalSystem.vcxproj|solutionrelative:BookRentalSystem\\LibrarySystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6924B8-E1F6-4350-A723-BB4C77C04282}|BookRentalSystem\\BookRentalSystem.vcxproj|C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{9A6924B8-E1F6-4350-A723-BB4C77C04282}|BookRentalSystem\\BookRentalSystem.vcxproj|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-24T20:29:59.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\main.cpp",
+              "RelativeDocumentMoniker": "BookRentalSystem\\main.cpp",
+              "ToolTip": "C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\main.cpp",
+              "RelativeToolTip": "BookRentalSystem\\main.cpp",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAYwIkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T20:55:04.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibrarySystem.h",
+              "DocumentMoniker": "C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\LibrarySystem.h",
+              "RelativeDocumentMoniker": "BookRentalSystem\\LibrarySystem.h",
+              "ToolTip": "C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\LibrarySystem.h",
+              "RelativeToolTip": "BookRentalSystem\\LibrarySystem.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-21T20:29:53.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibrarySystem.cpp",
+              "DocumentMoniker": "C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\LibrarySystem.cpp",
+              "RelativeDocumentMoniker": "BookRentalSystem\\LibrarySystem.cpp",
+              "ToolTip": "C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\LibrarySystem.cpp",
+              "RelativeToolTip": "BookRentalSystem\\LibrarySystem.cpp",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-21T20:30:23.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.h",
+              "DocumentMoniker": "C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\Person.h",
+              "RelativeDocumentMoniker": "BookRentalSystem\\Person.h",
+              "ToolTip": "C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\Person.h",
+              "RelativeToolTip": "BookRentalSystem\\Person.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-21T20:29:41.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.h",
+              "DocumentMoniker": "C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\Book.h",
+              "RelativeDocumentMoniker": "BookRentalSystem\\Book.h",
+              "ToolTip": "C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\Book.h",
+              "RelativeToolTip": "BookRentalSystem\\Book.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-21T20:29:30.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cpp",
+              "DocumentMoniker": "C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\Book.cpp",
+              "RelativeDocumentMoniker": "BookRentalSystem\\Book.cpp",
+              "ToolTip": "C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\Book.cpp",
+              "RelativeToolTip": "BookRentalSystem\\Book.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-21T20:30:06.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cpp",
+              "DocumentMoniker": "C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\Person.cpp",
+              "RelativeDocumentMoniker": "BookRentalSystem\\Person.cpp",
+              "ToolTip": "C:\\Users\\Iman\\source\\repos\\BookRentalSystem\\BookRentalSystem\\Person.cpp",
+              "RelativeToolTip": "BookRentalSystem\\Person.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-21T20:30:15.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
